@@ -9,7 +9,7 @@ public class MadLib {
     //constructor method
     public MadLib() {
        // System.out.println("Hello World");
-         String classmate = "Bob";
+         String classmate = "Maya";
          String city = "Miami";
          String noun = "lego";
          String adjective = "shiny";
